@@ -15,5 +15,5 @@ JavaScript: Harcama hesaplamaları ve etkileşimler için kullanıldı.
 
 ## Proje Ekran Görüntüsü
 
-![Harcama Hesaplayıcı](assets/Ekran görüntüsü_9-12-2024_214345_127.0.0.1.jpeg)
-
+![Harcama Hesaplayıcı](![alt text][def])
+[def]: <assets/Ekran görüntüsü_9-12-2024_214345_127.0.0.1.jpeg>
